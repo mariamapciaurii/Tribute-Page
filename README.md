@@ -1,5 +1,7 @@
 # Tribute-Page
-This is a Jimi Hendrix Tribute page.
+This is a Vincent VAan Gog's Tribute page.
+
+FreeCodeCamp Proct
 
 It makes up the first part of my coding portfolio.
 
